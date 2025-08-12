@@ -1,2 +1,2 @@
 # scripts
-scripts for roblox
+scripts for roblox and mainly personal use
